@@ -1,10 +1,5 @@
 ### Hi, i'm Mari, welcome to my profile :)
 
-##
-
-![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marianasalesb&show_icons=true&theme=dracula#gh-dark-mode-only)
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
